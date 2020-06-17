@@ -67,6 +67,9 @@ export class AppComponent implements OnInit {
       );
     }
 
+    console.log(this.logo.filename);
+    console.log('Logo is set to ', this.logo);
+
     this.isAuthenticated$ = this.store.pipe(select(selectIsAuthenticated));
     this.stickyHeader$ = this.store.pipe(select(selectSettingsStickyHeader));
     this.language$ = this.store.pipe(select(selectSettingsLanguage));
