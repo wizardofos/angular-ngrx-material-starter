@@ -14,5 +14,7 @@ export class AboutComponent implements OnInit {
 
   constructor() {}
 
-  ngOnInit() {}
+  ngOnInit() {
+    console.log('Release butler PNG:', this.releaseButler.default);
+  }
 }
