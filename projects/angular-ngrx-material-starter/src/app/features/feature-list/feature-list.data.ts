@@ -32,6 +32,13 @@ export const features: Feature[] = [
     documentation: 'https://cli.angular.io/'
   },
   {
+    name: 'Angular Extensions - Elements',
+    version: env.versions.angularElements,
+    description: 'anms.features.angular-extensions-elements',
+    github: 'https://github.com/angular/angular-cli',
+    documentation: 'https://cli.angular.io/'
+  },
+  {
     name: 'NgRx',
     version: env.versions.ngrx,
     description: 'anms.features.ngrx',

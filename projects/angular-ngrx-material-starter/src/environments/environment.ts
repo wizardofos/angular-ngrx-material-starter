@@ -14,6 +14,8 @@ export const environment = {
   versions: {
     app: packageJson.version,
     angular: packageJson.dependencies['@angular/core'],
+    angularElements: packageJson.dependencies['@angular-extensions/elements'],
+    angularModel: packageJson.dependencies['@angular-extensions/model'],
     ngrx: packageJson.dependencies['@ngrx/store'],
     material: packageJson.dependencies['@angular/material'],
     bootstrap: packageJson.dependencies.bootstrap,

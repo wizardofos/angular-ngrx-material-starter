@@ -14,6 +14,7 @@
   "anms.about.get-started": "快速开始",
   "anms.features.angular": "现代化的强大框架",
   "anms.features.angular-cli": "Angular 的命令行工具",
+  "anms.features.angular-extensions-elements": "Extensions for Angular framework",
   "anms.features.angular-material": "Material Design 的组件库",
   "anms.features.bootstrap": "久经考验的著名的 UI 类库，为应用提供响应式布局",
   "anms.features.cypress": "Cypress 是下一代的前端测试工具",

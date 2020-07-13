@@ -14,6 +14,7 @@
   "anms.about.get-started": "Ako začať",
   "anms.features.angular": "Moderný výkonný framework",
   "anms.features.angular-cli": "Rozhranie príkazového riadka pre Angular",
+  "anms.features.angular-extensions-elements": "Extensions for Angular framework",
   "anms.features.angular-material": "Knižnica komponentov implementujúcich Material Dizajn",
   "anms.features.bootstrap": "Responzívny dizajn od ostrielanej, svetoznámej UI knižnice",
   "anms.features.cypress": "Cypress je nová generácia predného testovacieho nástroja postaveného pre moderný web.",

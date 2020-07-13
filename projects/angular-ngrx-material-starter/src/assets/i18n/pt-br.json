@@ -14,6 +14,7 @@
   "anms.about.get-started": "Iniciar",
   "anms.features.angular": "Framework moderno e poderoso",
   "anms.features.angular-cli": "Interface de comando para o Angular",
+  "anms.features.angular-extensions-elements": "Extensions for Angular framework",
   "anms.features.angular-material": "Biblioteca de componentes Material Design",
   "anms.features.bootstrap": "Design responsivo com uma das maiores libs de UI do mundo",
   "anms.features.cypress": "Cypress é uma ferramenta de teste de última geração criada para a web moderna.",
